@@ -1,0 +1,14 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Base16/base16-monokai.dark.tmTheme",
+	"fade_fold_buttons": false,
+	"font_size": 11,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true
+}
