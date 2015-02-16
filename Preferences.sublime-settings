@@ -1,14 +1,29 @@
 {
-	"bold_folder_labels": true,
-	"caret_style": "phase",
-	"color_scheme": "Packages/Base16/base16-monokai.dark.tmTheme",
-	"fade_fold_buttons": false,
-	"font_size": 11,
+	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		"*.log",
+		"*.min.js"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git",
+		"public",
+		"bower_components"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 11.0,
 	"highlight_line": true,
-	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"tab_size": 2,
+	"theme": "Cobalt2.sublime-theme",
+	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true
 }
