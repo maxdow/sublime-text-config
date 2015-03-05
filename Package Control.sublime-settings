@@ -1,11 +1,25 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
+		"Alignment",
+		"AutoFileName",
+		"Babel",
+		"Color Highlighter",
+		"DocBlockr",
 		"Emmet",
+		"Focus File on Sidebar",
+		"GitGutter",
 		"HTML-CSS-JS Prettify",
-		"JSHint Gutter",
 		"Package Control",
+		"PlainTasks",
 		"SideBarEnhancements",
-		"SublimeCodeIntel"
+		"SublimeLinter",
+		"SublimeLinter-jscs",
+		"SublimeLinter-jshint",
+		"SublimeLinter-jsxhint",
+		"Theme - Cobalt2"
 	]
 }

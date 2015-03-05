@@ -1,6 +1,6 @@
 {
+	"close_sidebar_if_opened": false,
 	"color_scheme": "Packages/User/SublimeLinter/cobalt2 (SL).tmTheme",
-	"draw_white_space": "all",
 	"file_exclude_patterns":
 	[
 		"*.log",
@@ -14,7 +14,7 @@
 		"bower_components"
 	],
 	"font_face": "Source Code Pro",
-	"font_size": 11.0,
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[

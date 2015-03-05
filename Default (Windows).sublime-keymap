@@ -1,6 +1,13 @@
 [
-	{ "keys": ["super+v"], "command": "paste_and_indent" },
-	{ "keys": ["super+shift+v"], "command": "paste" },
-	{ "keys": ["f12"],  "command": "reindent" }
-
+{ "keys": ["shift+space"], "command": "move", "args": {"by": "characters", "forward": true} },
+{ "keys": ["ctrl+alt+shift+s"], "command": "save_all" },
+{ "keys": ["super+v"], "command": "paste_and_indent" },
+{ "keys": ["super+shift+v"], "command": "paste" },
+{ "keys": ["f12"], "command": "reindent"},
+{ "keys": ["ctrl+shift+("], "command": "fold" },
+{ "keys": ["ctrl+shift+)"], "command": "unfold" },
+{ "keys": ["shift+command+m"], "command": "goto_definition" },
+{ "keys": ["ctrl+alt+shift+left"], "command": "move_to", "args": {"to": "hardbol", "extend": true} },
+{ "keys": ["ctrl+alt+shift+right"], "command": "move_to", "args": {"to": "hardeol", "extend": true} }
+//{ "keys": ["ctrl+shift+q"], "command": "focus_file_on_sidebar" }
 ]
