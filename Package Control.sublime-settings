@@ -7,19 +7,21 @@
 		"Alignment",
 		"AutoFileName",
 		"Babel",
+		"BracketHighlighter",
 		"Color Highlighter",
+		"CSS Completions",
 		"DocBlockr",
 		"Emmet",
 		"Focus File on Sidebar",
 		"GitGutter",
 		"HTML-CSS-JS Prettify",
+		"MarkdownEditing",
+		"Material Theme",
+		"Materialize",
 		"Package Control",
-		"PlainTasks",
 		"SideBarEnhancements",
 		"SublimeLinter",
-		"SublimeLinter-jscs",
-		"SublimeLinter-jshint",
-		"SublimeLinter-jsxhint",
-		"Theme - Cobalt2"
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-jsxhint"
 	]
 }
